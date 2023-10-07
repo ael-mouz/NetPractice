@@ -25,7 +25,7 @@ To get started with this project, follow these steps:
 
 1. Download the attached file from the project’s page.
 2. Extract the files in a folder of your choice.
-3. Run the `index.html` file. This will open the training interface in your web browser.
+3. Run the [index.html](https://ael-mouz.github.io/NetPractice/) file. This will open the training interface in your web browser.
 
 For detailed instructions, refer to [Chapter IV: Mandatory part](#mandatory-part) in the subject PDF.
 
